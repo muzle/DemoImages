@@ -1,0 +1,8 @@
+disabled_rules:
+ - blanket_disable_command
+ - identifier_name
+ - line_length
+included:
+  - DemoImages
+excluded:
+  - DemoImages/Resources
